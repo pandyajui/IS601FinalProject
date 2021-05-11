@@ -31,5 +31,5 @@ Data is taken in JSON format and then pushed into the data feature for the chart
 <li>A graph comparing Height and Weight.</li>
 </ul>
 
-<h3>Prithvi Venkatachalapathy/h3>
+<h3>Prithvi Venkatachalapathy</h3>
 <b>Feature:</b>Worked on login and registration module. 
