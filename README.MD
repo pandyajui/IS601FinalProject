@@ -25,7 +25,8 @@
 
 <h2>Team Members</h2>
 <h3>Jui Pandya</h3>
-<b>Feature:</b> Use the statistics project to create API endpoints and then consume those endpoints using a JavaScript chart selected from the ones listed in this <a href=https://blog.logrocket.com/top-picks-javascript-chart-libraries/>article</a>.
+<b>Feature:</b>Takes in data from the database (I used Weight and Height) and displays it in a scatter plot chart. 
+Data is taken in JSON format and then pushed into the data feature for the chart. I used the chart.js setup to create the chart.
 <ul>
 <li>A graph comparing Height and Weight.</li>
 </ul>
