@@ -14,11 +14,14 @@
 
 <h2>Completed Project Features:</h2>
 <ul>
-<li>Application running on we server using Docker</li>
-<li>Viewing data on the web</li>
-<li>Editing, deleting, and adding entries database from browser side interface.</li>
-<li>Testing GET, POST, PUT, DELETE methods on Postman by enabling Flask App</li>
+<li>App running on web server with Docker</li>
+<li>Data displayed from database on the webpage</li>
+<li>Ability to Add, delete, and edit database content from the browser side rather than the database side. 
+</li>
+<li>Testing capabilities for GET, PUT, POST, and DELETE methods on Postman.</li>
+<li>Statistics feature that takes in the data from the database and displays it in a scatter plot chart.</li>
 </ul>
+
 
 <h2>Team Members</h2>
 <h3>Jui Pandya</h3>
