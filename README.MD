@@ -23,4 +23,6 @@
 <h2>Team Members</h2>
 <h3>Jui Pandya</h3>
 <b>Feature:</b> Use the statistics project to create API endpoints and then consume those endpoints using a JavaScript chart selected from the ones listed in this <a href=https://blog.logrocket.com/top-picks-javascript-chart-libraries/>article</a>.
-
+<ul>
+<li>A graph comparing Height and Weight.</li>
+</ul>
