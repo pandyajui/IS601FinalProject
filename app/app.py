@@ -147,7 +147,9 @@ QUICK_MAIL_VERIFICATION_API_KEY = 'xxxx'
 SEND_GRID_API_KEY = 'xxxx'
 
 
-@app.route("/", methods=['GET'])
+
+
+@app.route("/home", methods=['GET'])
 def home():
     return render_template("home.html")
 
